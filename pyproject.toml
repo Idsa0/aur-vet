@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Heuristic pre-install screening for AUR packages (read-only; proves nothing safe)"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "GPL-3.0-or-later" }
+license = { text = "MIT" }
 classifiers = [
     "Programming Language :: Python :: 3",
     "Topic :: Security",
